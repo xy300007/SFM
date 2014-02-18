@@ -142,7 +142,7 @@ public class MainFrame extends JFrame {
 		ImageIcon logoIcon = new ImageIcon(getClass().getResource("../img/logo.png"));
 		Image logoImage = logoIcon.getImage();
 		this.setIconImage(logoImage);
-		/*********************************************************/
+		/*************************************************************/
 		this.setVisible(true);
 	}
 
